@@ -1,7 +1,7 @@
 const Experience = () => {
   const data = [
     {
-      title: "Seth Anandram Jaipuria, Barabanki (March 2022 - Present)",
+      title: "Seth Anandram Jaipuria, Barabanki (March 2023 - Present)",
       position: "Primary Teacher (PRT) - Computer, English | PPRT - All Subjects",
       description:
         "In my current role at Seth Anandram Jaipuria, Barabanki, I wear multiple hats as a Primary Teacher and a Pre-Primary Teacher (PPRT). As the Primary Teacher for Computer and English, I continue to uphold high academic standards, ensuring that students are well-prepared for the challenges of the digital age. Additionally, as a PPRT, I take on the responsibility of teaching all subjects, emphasizing a play-based and interactive curriculum to lay a strong foundation for future academic success.",
