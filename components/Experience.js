@@ -1,24 +1,30 @@
 const Experience = () => {
   const data = [
-    {
-      title: "Seth Anandram Jaipuria, Barabanki (March 2023 - Present)",
-      position: "Primary Teacher (PRT) - Computer, English | PPRT - All Subjects",
-      description:
-        "In my current role at Seth Anandram Jaipuria, Barabanki, I wear multiple hats as a Primary Teacher and a Pre-Primary Teacher (PPRT). As the Primary Teacher for Computer and English, I continue to uphold high academic standards, ensuring that students are well-prepared for the challenges of the digital age. Additionally, as a PPRT, I take on the responsibility of teaching all subjects, emphasizing a play-based and interactive curriculum to lay a strong foundation for future academic success.",
-    },
-    {
-      title: "Mizpah Christian School, Orai Jalaun (April 2020 - March 2023)",
-      position: "Primary Teacher (PRT) - Computer, English, and Maths",
-      description:
-        "During my tenure at Vinayak Academy, I had the privilege of contributing to the academic growth of primary school students. As a Primary Teacher specializing in Computer and English, I designed and delivered engaging lessons that aimed not only at building a strong foundation in these subjects but also at fostering a love for learning. I implemented innovative teaching methods to make the learning process enjoyable and effective.",
-    },
-    {
-      title: "Vinayak Academy, Orai Jalaun (April 2019 - March 2020)",
-      position: "Primary Teacher (PRT) - Computer, English",
-      description:
-        "During my tenure at Vinayak Academy, I had the privilege of contributing to the academic growth of primary school students. As a Primary Teacher specializing in Computer and English, I designed and delivered engaging lessons that aimed not only at building a strong foundation in these subjects but also at fostering a love for learning. I implemented innovative teaching methods to make the learning process enjoyable and effective.",
-    },
-  ];
+  {
+    title: "Apex Academy of Modern Education (2023 - Present)",
+    position: "Coordinator",
+    description:
+      "Currently serving as a Coordinator at Apex Academy of Modern Education, where I oversee academic planning, teacher coordination, and student progress monitoring. I play a key role in curriculum implementation, teacher mentoring, and ensuring smooth day-to-day academic operations to maintain high educational standards."
+  },
+  {
+    title: "Seth Anandram Jaipuria, Barabanki (March 2023 - Present)",
+    position: "Primary Teacher (PRT) - Computer, English | PPRT - All Subjects",
+    description:
+      "In my current role at Seth Anandram Jaipuria, Barabanki, I wear multiple hats as a Primary Teacher and a Pre-Primary Teacher (PPRT). As the Primary Teacher for Computer and English, I continue to uphold high academic standards, ensuring that students are well-prepared for the challenges of the digital age. Additionally, as a PPRT, I take on the responsibility of teaching all subjects, emphasizing a play-based and interactive curriculum to lay a strong foundation for future academic success."
+  },
+  {
+    title: "Mizpah Christian School, Orai Jalaun (April 2020 - March 2023)",
+    position: "Primary Teacher (PRT) - Computer, English, and Maths",
+    description:
+      "During my tenure at Mizpah Christian School, I had the privilege of contributing to the academic growth of primary school students. As a Primary Teacher specializing in Computer, English, and Maths, I designed and delivered engaging lessons that aimed not only at building a strong foundation in these subjects but also at fostering a love for learning. I implemented innovative teaching methods to make the learning process enjoyable and effective."
+  },
+  {
+    title: "Vinayak Academy, Orai Jalaun (April 2019 - March 2020)",
+    position: "Primary Teacher (PRT) - Computer, English",
+    description:
+      "During my tenure at Vinayak Academy, I had the privilege of contributing to the academic growth of primary school students. As a Primary Teacher specializing in Computer and English, I designed and delivered engaging lessons that aimed not only at building a strong foundation in these subjects but also at fostering a love for learning. I implemented innovative teaching methods to make the learning process enjoyable and effective."
+  }
+];
   return (
     <section class=" md:pt-8 -mt-16 lg:mt-4 sm:-mt-10">
       <div class="mx-auto max-w-screen-xl px-4 py-8 sm:px-6 sm:py-12 lg:px-8">
