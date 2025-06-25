@@ -2,14 +2,14 @@ import EducationCard  from "./EducationCard";
 
 const Education = () => {
   const educationData= [
-      {
-        "level": "Diploma",
-        "university": "Dr. Ram Manohar Lohia Avadh University",
-        "institution": "Shri Ram Chandra Shikshan Prashikshan Sansthan Lohati Saraiya Faizabad Ayodhya",
-        "duration": "2023 - 2025",
-        "degree": "Diploma in Elementary Education",
-        "description": "Currently pursuing a Diploma in Elementary Education at Shri Ram Chandra Shikshan Prashikshan Sansthan, affiliated with Dr. Ram Manohar Lohia Avadh University, with an expected completion date in 2025."
-      },
+{
+  "level": "Master's",
+  "university": "Dr. Ram Manohar Lohia Avadh University",
+  "institution": "Narsingh Narayan Hari Prasad Mahavidyalaya, Meenapur, Ayodhya",
+  "duration": "2023 - 2025",
+  "degree": "Master of Arts (Geography)",
+  "description": "Successfully completed Master of Arts in Geography from Narsingh Narayan Hari Prasad Mahavidyalaya, Meenapur, Ayodhya, affiliated with Dr. Ram Manohar Lohia Avadh University, during the academic session 2023 to 2025."
+},
       {
         "level": "Bachelor",
         "university": "Bundelkhand University Jhansi",
