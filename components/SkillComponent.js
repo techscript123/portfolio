@@ -6,15 +6,15 @@ const SkillComponent = () => {
 
     <div className="grid sm:grid-cols-3 gap-4">
                  
-    <div className="border p-4 rounded-xl">
+ <div className="border p-4 rounded-xl">
       {" "}
-      <img src='/rakhi/img-55.jpeg' className='h-64 w-full rounded-xl object-cover object-top' />
+      <img src='/IMG_20240905_113303525_HDR.jpg' className='h-64 w-full rounded-xl object-cover object-top' />
     </div>
     <div className="border p-4 rounded-xl">
       {" "}
       <img src='/rakhi/img-3.jpeg' className='h-64 w-full rounded-xl object-cover ' />
     </div>
- 
+    
     <div className="border p-4 rounded-xl">
       {" "}
       <img src='/rakhi/img-1.jpeg' className='h-64 w-full rounded-xl object-cover object-top ' />

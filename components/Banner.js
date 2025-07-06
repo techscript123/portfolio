@@ -22,9 +22,9 @@ var arr=[ 7,1,2,3,4,5,"React","Javascript","NextJs","React Native","Python","Htm
            
             </h2>
             <div className="mt-2 text-lg mb-24 text-[#A4BE7B] opacity-90  md:mb-0 leading-8  text-[#93B1A6]">
-            Hello, I am Rakhi, a dedicated and experienced primary school teacher with a passion for fostering a love of learning in young minds. <span className="hidden md:block">
-            With four years of enriching experience in the education sector, I am committed to providing a supportive and engaging environment for my students.</span>
-            </div>
+        Hello, I am Rakhi, a dedicated education professional currently working as a <strong>Coordinator </strong>. With six years of enriching experience as a school teacher, I have developed a deep passion for fostering a love of learning in young minds.
+
+In my current role, I focus on academic planning, teacher mentoring, and ensuring smooth day-to-day operations, while continuing to support a nurturing and engaging learning environment for both students and educators.</div>
 
           </div>
       
